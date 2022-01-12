@@ -41,7 +41,9 @@
         "Saves",
         "Cheats",
         "BIOS",
-        "snes9x.conf"
+        "snes9x.conf",
+        "Patches",
+        "SatData"
     ],
     "checkver": {
         "github": "https://github.com/snes9xgit/snes9x"
